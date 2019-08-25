@@ -5,10 +5,6 @@ The architecture based on https://github.com/keras-team/keras/blob/master/exampl
 '''
 
 from __future__ import print_function
-
-import sys
-sys.path.append('/home/bence/SVRGoptimizerKeras')
-
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
